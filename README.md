@@ -17,9 +17,9 @@
 
 Simple use of elimi kansc: 
 1. Double click "elimi kansc.exe" and wait about 10 seconds to start the program;
-2. 2. Select 6 antibiotic categories +1 all category;
-   3. 3. Click the "upload file" button;
-      4. 4. Select your CSV file or xlsx file;
+2. Select 6 antibiotic categories +1 all category;
+3. Click the "upload file" button;
+4. Select your CSV file or xlsx file;
 
 Note: your CSV file or xlsx file must contain at least one "smiles" column, and the calculation speed is about 35 smiles/ second. 
 
