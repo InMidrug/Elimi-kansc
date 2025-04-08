@@ -23,5 +23,11 @@ Simple use of elimi kansc:
 
 Note: your CSV file or xlsx file must contain at least one "smiles" column, and the calculation speed is about 35 smiles/ second. 
 
-
 Please note the CPU usage!
+
+
+
+It is recommended to use "all_categories" directly.
+
+
+
