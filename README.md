@@ -1,4 +1,4 @@
-# Elimi-kansc，本程序完全免费，且准确率是当前最高的，使用后请引用Citation：
+# Elimi-kansc，本程序完全免费，且筛选准确率非常高，使用后请引用Citation：
 Zhang, D. (2025). Eliminators for known antibiotic structural classes: Elimi-kansc (1.0). Zenodo. https://doi.org/10.5281/zenodo.15174313
 
 
