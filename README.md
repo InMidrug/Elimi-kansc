@@ -1,5 +1,5 @@
 # Elimi-kansc，本程序完全免费，且筛选准确率非常高，使用后请引用Citation：
-Zhang, D. (2025). Eliminators for known antibiotic structural classes: Elimi-kansc (1.0). Zenodo. https://doi.org/10.5281/zenodo.15174313
+Zhang, D. (2025). Eliminators for known antibiotic structural classes: Elimi-kansc 2.0. Zenodo. https://doi.org/10.5281/zenodo.15175307
 
 
 简单使用Elimi-kansc：
@@ -32,10 +32,7 @@ It is recommended to use "all_categories" directly.
 
 1、百度网盘：
 通过网盘分享的文件：Elimi-kansc.exe
-链接: https://pan.baidu.com/s/1uIz3jNB9hOqTGQ3kGHmETA 提取码: wywq 
-
+链接: https://pan.baidu.com/s/1dU26GY0J7G8wmETaxdfO2A 提取码: wywq 
 
 2、Zenodo: 
-https://zenodo.org/records/15174313?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjIyNjIwYWUyLTIwYzAtNGVkYS1iMmU1LTYwYWRkZjlmNzI0YSIsImRhdGEiOnt9LCJyYW5kb20iOiI3ODU3ODllYjBhOTBmNDM3ODgxMWQxYTVjNzI3MmQyYSJ9.z1Gul-PdgkaMzX8h7aTQmROWyH4v-a-JWB3dDV8qE0GtCwbQrTknDgeUuz8PqZC_qdv8Nawx20OYQjWPNAX9XQ
-
-shorturl of Zenodo: https://shorturl.asia/UcHQk
+https://zenodo.org/records/15175307?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjJmM2YwNjVmLWQzNDgtNDcxMi05ODExLTQxMzc0YTJhZTI0OCIsImRhdGEiOnt9LCJyYW5kb20iOiJlMmI5YzUyNzQ1M2U1YmQzOWQ2Y2FkODRiZTE3ODBjOCJ9.gtT96eN-vm0dTG7_mmASDbGZqDQVLMOzcOW3u5Vy62ObHayFn-ysazDOKGL8joR4MgxRKRwFxYVftpfBs3PMGg
