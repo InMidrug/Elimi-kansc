@@ -9,7 +9,7 @@ Zhang, D. (2025). Eliminators for known antibiotic structural classes: Elimi-kan
 4、选择你的csv文件或者xlsx文件；
 
 注意：
-你的csv文件或者xlsx文件必需至少包含一个“SMILES”列，计算速度约为35个SMILES/秒。
+你的csv文件或者xlsx文件必需至少包含一个“SMILES”列，计算速度约为35个SMILES/秒（R7 5800H）。
 
 请注意CPU占用！
 
@@ -20,7 +20,7 @@ Simple use of elimi kansc:
 3. Click the "upload file" button;
 4. Select your CSV file or xlsx file;
 
-Note: your CSV file or xlsx file must contain at least one "smiles" column, and the calculation speed is about 35 smiles/ second. 
+Note: your CSV file or xlsx file must contain at least one "smiles" column, and the calculation speed is about 35 smiles/ second (R7 5800H). 
 
 Please note the CPU usage!
 
