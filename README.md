@@ -29,5 +29,13 @@ Please note the CPU usage!
 
 It is recommended to use "all_categories" directly.
 
+★★★★★★★★★★★★★★★★★★★★★Links★★★★★★★★★★★★★★★★★★★★★
+1、百度网盘：
+通过网盘分享的文件：Elimi-kansc.exe
+链接: https://pan.baidu.com/s/1uIz3jNB9hOqTGQ3kGHmETA 提取码: wywq 
 
 
+2、Zenodo: 
+https://zenodo.org/records/15174313?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjIyNjIwYWUyLTIwYzAtNGVkYS1iMmU1LTYwYWRkZjlmNzI0YSIsImRhdGEiOnt9LCJyYW5kb20iOiI3ODU3ODllYjBhOTBmNDM3ODgxMWQxYTVjNzI3MmQyYSJ9.z1Gul-PdgkaMzX8h7aTQmROWyH4v-a-JWB3dDV8qE0GtCwbQrTknDgeUuz8PqZC_qdv8Nawx20OYQjWPNAX9XQ
+
+shorturl of Zenodo: https://shorturl.asia/UcHQk
