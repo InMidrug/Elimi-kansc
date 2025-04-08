@@ -16,8 +16,8 @@
 
 
 Simple use of elimi kansc: 
-1. Double click "elimi kansc.exe" and wait about 10 seconds to start the program;
-2. Select 6 antibiotic categories +1 all category;
+1. Double click "elimi-kansc.exe" and wait about 10 seconds to start the program;
+2. Select 6 antibiotic categories + 1 all_categories;
 3. Click the "upload file" button;
 4. Select your CSV file or xlsx file;
 
