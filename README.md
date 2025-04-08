@@ -1,6 +1,7 @@
-# Elimi-kansc
+# Elimi-kansc，本程序完全免费，且准确率是当前最高的，使用后请引用Citation：
+Zhang, D. (2025). Eliminators for known antibiotic structural classes: Elimi-kansc (1.0). Zenodo. https://doi.org/10.5281/zenodo.15174313
 
-已知抗生素结构类别的排除器（Eliminators for known antibiotic structural classes）
+
 简单使用Elimi-kansc：
 1、双击“Elimi-kansc.exe”，等待10秒左右即可启动程序；
 2、选择6个抗生素类别+1个全部类别；
@@ -11,8 +12,6 @@
 你的csv文件或者xlsx文件必需至少包含一个“SMILES”列，计算速度约为35个SMILES/秒。
 
 请注意CPU占用！
-
-
 
 
 Simple use of elimi kansc: 
