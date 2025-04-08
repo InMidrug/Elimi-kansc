@@ -30,6 +30,7 @@ Please note the CPU usage!
 It is recommended to use "all_categories" directly.
 
 ★★★★★★★★★★★★★★★★★★★★★Links★★★★★★★★★★★★★★★★★★★★★
+
 1、百度网盘：
 通过网盘分享的文件：Elimi-kansc.exe
 链接: https://pan.baidu.com/s/1uIz3jNB9hOqTGQ3kGHmETA 提取码: wywq 
