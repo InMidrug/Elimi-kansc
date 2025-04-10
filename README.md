@@ -1,7 +1,7 @@
 # Elimi-kansc，本程序完全免费，且筛选准确率非常高，使用后请引用Citation：
 
 Citation：
-Zhang, D. (2025). Eliminators for known antibiotic structural classes: Elimi-kansc 2.1. Zenodo. https://doi.org/10.5281/zenodo.15187610
+Zhang, D. (2025). Eliminators for known antibiotic structural classes: Elimi-kansc 3.2. Zenodo. https://doi.org/10.5281/zenodo.15188577
 
 
 简单使用Elimi-kansc：
