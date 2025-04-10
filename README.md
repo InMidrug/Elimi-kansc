@@ -32,8 +32,7 @@ It is recommended to use "all_categories" directly.
 ★★★★★★★★★★★★★★★★★★★★★Links★★★★★★★★★★★★★★★★★★★★★
 
 1、百度网盘：
-通过网盘分享的文件：Elimi-kansc.exe
-链接: https://pan.baidu.com/s/1-l6yLJkX2ck821QjLSQ-Vw 提取码: wywq 
+
 
 2、Zenodo: 
-https://zenodo.org/records/15187610?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjE2ODhmZTk5LWFjZDItNGMwMS04NDQ4LTY1MjlmODVlOGEzOSIsImRhdGEiOnt9LCJyYW5kb20iOiJkMTFiNWQ4M2Y2ZGRlZWYzZWNkMWRiOTY0MGQzMWQwNCJ9.oaRjkzzMpIY0ovu2SGUkI6fMTVw93b8RJ0dP36VgtqngD96RzwtxeVzopfBA5mW4w6avCMcMOjcsEeK6UCzqeQ
+
