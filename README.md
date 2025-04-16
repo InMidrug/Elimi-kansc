@@ -32,7 +32,7 @@ It is recommended to use "all_categories" directly.
 ★★★★★★★★★★★★★★★★★★★★★Links★★★★★★★★★★★★★★★★★★★★★
 
 1、百度网盘：
-通过网盘分享的文件：Elimi-kansc.exe
+通过网盘分享的文件：Elimi-kansc.exe（旧版本）
 链接: https://pan.baidu.com/s/1zMiSxKPFhFnVfKsCJaiNoA 提取码: wywq 
 
 2、Zenodo: 
